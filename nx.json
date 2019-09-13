@@ -19,6 +19,9 @@
     },
     "api-interfaces": {
       "tags": []
+    },
+    "test-ngine": {
+      "tags": ["lib", "feature", "api"]
     }
   }
 }

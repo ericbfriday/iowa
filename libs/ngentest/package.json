@@ -1,0 +1,41 @@
+{
+  "name": "ngentest",
+  "version": "0.4.0",
+  "description": "Angular5+ Unit Test Generator For Components, Directive, Services, and Pipes",
+  "main": "index.js",
+  "license": "MIT",
+  "engines": {
+    "node": ">=8.6.0",
+    "npm": ">=6.1"
+  },
+  "bin": {
+    "gentest": "./index.js",
+    "ngentest": "./index.js"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allenhwkim/ng-gen-test.git"
+  },
+  "keywords": [
+    "angular",
+    "generate",
+    "unit",
+    "test",
+    "cli"
+  ],
+  "author": "Allen Kim <allenhwkim@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/allenhwkim/ng-gen-test/issues"
+  },
+  "homepage": "https://github.com/allenhwkim/ng-gen-test#readme",
+  "dependencies": {
+    "check-engines": "^1.5.0",
+    "ejs": "^2.6.1",
+    "typescript-parser": "^2.6.1",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {}
+}

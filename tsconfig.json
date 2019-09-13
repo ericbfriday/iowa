@@ -16,7 +16,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@iowa/api-interfaces": ["libs/api-interfaces/src/index.ts"]
+      "@iowa/api-interfaces": ["libs/api-interfaces/src/index.ts"],
+      "@iowa/test-ngine": ["libs/test-ngine/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
