@@ -1,1 +1,1 @@
-export const duck = 'duck';
+export { FileSystemReader, Reader } from './utils/fs-reader';
