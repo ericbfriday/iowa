@@ -39,7 +39,7 @@
     "@angular/router": "^8.2.0",
     "@nestjs/common": "^6.2.4",
     "@nestjs/core": "^6.2.4",
-    "@nestjs/platform-express": "^6.2.4",
+    "@nestjs/platform-express": "^9.2.1",
     "@nrwl/angular": "8.5.0",
     "core-js": "^2.5.4",
     "ng-packagr": "^5.5.0",
